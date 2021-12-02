@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AbdouraoufYoussouf
-- 👀 I’m interested in  le developpement web et mobile
-- 🌱 I’m currently learning  React et Laravel pringBoot  Android  tudio
-- 💞️ I’m looking to collaborate on  avec le entreprie et le ociete pour un tage de PFE à partir de fevrier 2022
-- 📫 How to reach me  soit par email:yououf.abdouraouf4@gmail.com
+- 👀 I’m interested in developpement web and mobile
+- 🌱 I’m currently learning  React et Laravel pringBoot  Android  studio
+- 💞️ I’m looking to collaborate in society and business for a pfe stadium in february 2022
+- 📫 How to reach me  soit par email:youssouf.abdouraouf4@gmail.com or whatsapp : +212 655108082
 
 
 <!---
