@@ -5,7 +5,7 @@
 
 - I am also an experienced developer in teamwork and I am familiar with methodologies for creating robust and scalable software 🤝💪. 
 - I am convinced that I can contribute to the growth and success of your company thanks to my technical skills, my team spirit and my ability to work effectively under pressure 🚀.
-- 📫 How to reach me  soit par email:youssouf.abdouraouf4@gmail.com or whatsapp : +212 633851644
+- 📫 how to contact me either by email : youssouf.abdouraouf4@gmail.com or whatsapp : +212 633851644
 
 
 <!---
