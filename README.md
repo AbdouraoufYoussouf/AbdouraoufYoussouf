@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbdouraoufYoussouf
 - 👀 I’m interested in developpement web and mobile
-- I am a developer passionate about React/Next ⚛️, and .NET/C# 🚀💻 technologies. 
+- I am a developer passionate about React/Next ⚛️,Node/Express and .NET/C# 🚀💻 technologies. 
 - I am ready to use my skills to solve technical challenges for a company looking for a creative and rigorous professional 🧠💡. My specializations include creating high quality web applications and dynamic user interfaces to meet customer needs 💻🌐 .
 
 - I am also an experienced developer in teamwork and I am familiar with methodologies for creating robust and scalable software 🤝💪. 
